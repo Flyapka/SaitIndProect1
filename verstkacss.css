@@ -1,0 +1,80 @@
+.vverh{
+    position: fixed;
+    border: 1px solid rgb(80, 80, 145);
+    width: 100%;
+    height: 10%;
+    top: 0;
+    left: 0;
+    background-color: rgb(80, 80, 145);
+}
+.portf{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin: 20px;
+}
+.parentava{
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-top: 100px;
+    width: 400px;
+    height: 400px;
+    margin-left: 12%;
+}
+.ava{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    background-image: url(userava.png);
+    background-size: 100% 100%;
+}
+.n{
+    border: 1px solid black;
+    width: 200px;
+    height: 100px;
+    margin-left: 90px;
+}
+.ma1{
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -300px;
+}
+#ppp1{
+    border: 1px solid black;
+    margin-top: -2px;
+    text-align: justify;
+    height: 232px;
+}
+.lb1{
+    margin-top: -50px;
+}
+.ma2{
+    width: 250px;
+    height: 250px;
+    margin-left: 60%;
+    margin-top: -250px;   
+}
+#ppp2{
+    border: 1px solid black;
+    width: 249px;
+    height: 232px;
+}
+#ppp3{
+    border: 2px dashed black;
+    width: 249px;
+    height: 135px;
+}
+footer{
+    width: 250px;
+    height: 155px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#sl{
+    border: 2px dashed black;
+    height: 136px;
+}
